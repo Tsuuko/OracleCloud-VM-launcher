@@ -36,7 +36,7 @@ config.iniに各種設定を書きます。
 [LAUNCHER]
 # discordのwebhookURL
 webhook_url=
-# これのサブネットのOCID
+# サブネットのOCID
 subnet_id=
 # イメージID
 image_id=
