@@ -25,7 +25,7 @@ if len(identity.list_availability_domains(compartment_id).data)>=1:
     availability_domain=identity.list_availability_domains(compartment_id).data[0].name
     # シェイプの設定
     if len(cclient.list_shapes(compartment_id).data)>=1:
-        shape=cclient.list_shapes(compartment_id).data[0].shape
+        shape="VM.Standard.E2.1.Micro"
 
         # VNICの設定（これいる？？）
         vinc_details=oci.core.models.CreateVnicDetails(
