@@ -65,10 +65,10 @@
         },
         "configparser": {
             "hashes": [
-                "sha256:2ca44140ee259b5e3d8aaf47c79c36a7ab0d5e94d70bd4105c03ede7a20ea5a1",
-                "sha256:cffc044844040c7ce04e9acd1838b5f2e5fa3170182f6fda4d2ea8b0099dbadd"
+                "sha256:254c1d9c79f60c45dfde850850883d5aaa7f19a23f13561243a050d5a7c3fe4c",
+                "sha256:c7d282687a5308319bf3d2e7706e575c635b0a470342641c93bea0ea3b5331df"
             ],
-            "version": "==5.0.0"
+            "version": "==4.0.2"
         },
         "cryptography": {
             "hashes": [
@@ -105,11 +105,11 @@
         },
         "oci": {
             "hashes": [
-                "sha256:9a93aa28b99db5b0db939831c7cd443e62639e2d3d3a9e6ad88961c60e41afef",
-                "sha256:c95251e3e46f014096824bf8893b0bd6857ce06df5cd97bd5516dc7f2616e9dd"
+                "sha256:9101d21eea3701148c6d06b764336c9f2f634ddf3acbf6831c527949819a1393",
+                "sha256:bea7cf927bcd80b56ff7898d164b251581e5e70d86d3848d33cef0649e220553"
             ],
             "index": "pypi",
-            "version": "==2.10.1"
+            "version": "==2.18.1"
         },
         "pycparser": {
             "hashes": [
